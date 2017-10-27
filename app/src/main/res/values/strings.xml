@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="edit_box">Afageix un element a la llista</string>
+    <string name="confirm">CONFIRMACIÓ</string>
+    <string name="remove">ELIMINA</string>
+    <string name="missatge">Està segur que vol eliminar \'%1$s\' de la llista ?</string>
+    <string name="cannot_write">No puc escriure elements</string>
+    <string name="cannot_read">No puc llegir la llista</string>
+    <string name="borrar_marcados">Esborrar marcats</string>
+    <string name="borrar_todo">Esborrar-ho tot</string>
+    <string name="confirm_all">Està segur que ho vol esborrar tot?</string>
+</resources>

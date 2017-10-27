@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="14dp">
+
+    <CheckBox
+        android:id="@+id/shopping_item"
+        android:layout_width="match_parent"
+        android:layout_height="?android:listPreferredItemHeight"
+        android:paddingLeft="8dp"
+        android:text="CheckBox"
+        android:textSize="17dp"
+        android:clickable="false"
+        android:focusable="false"/>
+</LinearLayout>
